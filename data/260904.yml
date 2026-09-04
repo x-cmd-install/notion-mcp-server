@@ -7,7 +7,7 @@ about:
   head: 1d38420
   archived: false
   latestVersion: v2.1.0
-  collectedAt: 2026-09-04T19:33:59Z
+  collectedAt: 2026-09-04T21:00:50Z
 timeline:
   created: 2025-03-10
   lastCommit: 2026-07-25
@@ -82,5 +82,43 @@ total:
   openIssue: 154
   commit: 97
 ---
+path: /home/runner/.x-repo/github.com/makenotion/notion-mcp-server
+collectedAt: 2026-09-04T21:00:51Z
+loc:
+  Json:
+    code: 7771
+    comments: 0
+    blanks: 0
+    files: 4
+  TypeScript:
+    code: 5591
+    comments: 395
+    blanks: 619
+    files: 27
+  JavaScript:
+    code: 25
+    comments: 1
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 13
+    comments: 12
+    blanks: 11
+    files: 1
+  Yaml:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 318
+    blanks: 170
+    files: 4
+total:
+  code: 13562
+  comments: 734
+  blanks: 808
+  files: 38
 ---
 
