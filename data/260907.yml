@@ -5,13 +5,13 @@ about:
   head: 1d38420
   archived: false
   latestVersion: "v2.1.0"
-  collectedAt: 2026-09-07T05:12:43Z
+  collectedAt: 2026-09-07T19:16:16Z
 timeline:
   created: 2025-03-10
   lastCommit: 2026-07-25
   lastRelease: 2026-01-31
 popularity:
-  star: 4622
+  star: 4621
   watcher: 24
   fork: 625
   release: 1
@@ -81,7 +81,7 @@ total:
   commit: 97
 ---
 path: /home/runner/.x-repo/github.com/makenotion/notion-mcp-server
-collectedAt: 2026-09-07T05:12:44Z
+collectedAt: 2026-09-07T19:16:17Z
 loc:
   Json:
     code: 7771
@@ -122,7 +122,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:12:44+00:00
+  collectedAt: 2026-09-07T19:16:19+00:00
   platform:
     darwin/arm64:
       name:  null
