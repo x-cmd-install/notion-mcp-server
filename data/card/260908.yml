@@ -5,7 +5,7 @@ about:
   head: 1d38420
   archived: false
   latestVersion: "v2.1.0"
-  collectedAt: 2026-09-08T02:32:23Z
+  collectedAt: 2026-09-08T05:13:15Z
 timeline:
   created: 2025-03-10
   lastCommit: 2026-07-25
@@ -81,7 +81,7 @@ total:
   commit: 97
 ---
 path: /home/runner/.x-repo/github.com/makenotion/notion-mcp-server
-collectedAt: 2026-09-08T02:32:24Z
+collectedAt: 2026-09-08T05:13:16Z
 loc:
   Json:
     code: 7771
