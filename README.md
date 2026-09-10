@@ -12,6 +12,18 @@ Official Notion MCP Server
 x install notion-mcp-server
 ```
 
+## Code insight
+
+Total: **13,406** lines of code across **34** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 7,771 | 0 | 0 | 4 |
+| TypeScript | 5,591 | 395 | 619 | 27 |
+| JavaScript | 25 | 1 | 4 | 1 |
+| Dockerfile | 13 | 12 | 11 | 1 |
+| Yaml | 6 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/makenotion/notion-mcp-server>
@@ -35,20 +47,11 @@ x install notion-mcp-server
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 7 | 0 | 5 | 0 |
+| last60d | 2026-07-12 | 0 | 1 | 11 | 2 | 7 | 3 |
 | 90d | 2026-06-12 | 0 | 8 | 15 | 2 | 12 | 10 |
+| last180d | 2026-03-14 | 0 | 9 | 28 | 6 | 55 | 12 |
 | 360d | 2025-09-15 | 1 | 21 | 36 | 24 | 105 | 32 |
-
-## Code size
-
-Total: **13,406** lines of code across **34** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 7,771 | 0 | 0 | 4 |
-| TypeScript | 5,591 | 395 | 619 | 27 |
-| JavaScript | 25 | 1 | 4 | 1 |
-| Dockerfile | 13 | 12 | 11 | 1 |
-| Yaml | 6 | 0 | 0 | 1 |
+| last720d | 2024-09-20 | 1 | 42 | 39 | 59 | 154 | 97 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for notion-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:44:12Z._
