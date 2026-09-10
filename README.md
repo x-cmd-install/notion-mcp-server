@@ -21,11 +21,10 @@ x install notion-mcp-server
 
 - **Latest**: `v2.1.0` (2026-01-31)
 - **Last commit**: 2026-07-25
-- **Published**: 2026-01-31T18:27:31Z
 
 ## Popularity
 
-- **Stars**: 4,623 · **Forks**: 623 · **Open issues**: 213 · **Contributors**: 40
+- **Stars**: 4,624 · **Forks**: 624 · **Open issues**: 213 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -56,8 +55,8 @@ Total: **13,406** lines of code across **34** files in the top 5 languages.
 Install metadata for notion-mcp-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `notion-mcp-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/notion-mcp-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/notion-mcp-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:19:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:07Z._
