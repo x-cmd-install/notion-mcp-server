@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:19:05Z
+  collectedAt: 2026-09-10T17:06:58Z
 timeline:
   created: 2025-03-10
   lastCommit: 2026-07-25
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-01-31
   lastPrerelease: 
 popularity:
-  star: 4623
+  star: 4624
   watcher: 24
-  fork: 623
+  fork: 624
   release: 1
   contributor: 40
   pullRequest: 121
@@ -85,7 +85,7 @@ total:
   commit: 97
 ---
 path: /home/runner/.x-repo/github.com/makenotion/notion-mcp-server
-collectedAt: 2026-09-10T05:19:06Z
+collectedAt: 2026-09-10T17:07:01Z
 loc:
   Json:
     code: 7771
