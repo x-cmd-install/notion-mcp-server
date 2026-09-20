@@ -4,7 +4,7 @@
 
 Official Notion MCP Server
 
-![notion-mcp-server](https://repo.x-cmd.io/notion-mcp-server.svg)
+[![x-cmd/install — notion-mcp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/notion-mcp-server.svg)](https://x-cmd.com/install/notion-mcp-server)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **13,406** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,638 · **Forks**: 630 · **Open issues**: 213 · **Contributors**: 40
+- **Stars**: 4,641 · **Forks**: 632 · **Open issues**: 215 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 42 · **Open PRs**: 41 · **Closed issues**: 59 · **Open issues**: 154 · **Commits**: 97
+- **Releases**: 1 · **Merged PRs**: 42 · **Open PRs**: 41 · **Closed issues**: 59 · **Open issues**: 156 · **Commits**: 97
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 7 | 0 | 2 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 12 | 2 | 5 | 3 |
-| 90d | 2026-06-20 | 0 | 2 | 14 | 2 | 10 | 4 |
-| last180d | 2026-03-22 | 0 | 9 | 28 | 6 | 51 | 11 |
-| 360d | 2025-09-23 | 1 | 21 | 38 | 24 | 101 | 32 |
-| last720d | 2024-09-28 | 1 | 42 | 41 | 59 | 154 | 97 |
+| 30d | 2026-08-21 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 11 | 2 | 7 | 3 |
+| 90d | 2026-06-22 | 0 | 1 | 14 | 2 | 12 | 4 |
+| last180d | 2026-03-24 | 0 | 9 | 28 | 6 | 53 | 11 |
+| 360d | 2025-09-25 | 1 | 21 | 38 | 24 | 102 | 32 |
+| last720d | 2024-09-30 | 1 | 42 | 41 | 59 | 156 | 97 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for notion-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:23:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:29:58Z._
