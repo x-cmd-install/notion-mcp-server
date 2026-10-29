@@ -14,12 +14,12 @@ x install notion-mcp-server
 
 ## Code insight
 
-Total: **13,898** lines of code across **35** files in the top 5 languages.
+Total: **13,740** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 8,215 | 0 | 0 | 4 |
-| TypeScript | 5,639 | 419 | 631 | 28 |
+| Json | 8,213 | 0 | 0 | 4 |
+| TypeScript | 5,483 | 415 | 612 | 28 |
 | JavaScript | 25 | 1 | 4 | 1 |
 | Dockerfile | 13 | 12 | 11 | 1 |
 | Yaml | 6 | 0 | 0 | 1 |
@@ -36,22 +36,22 @@ Total: **13,898** lines of code across **35** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,683 · **Forks**: 636 · **Open issues**: 223 · **Contributors**: 40
+- **Stars**: 4,686 · **Forks**: 638 · **Open issues**: 223 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 45 · **Open PRs**: 44 · **Closed issues**: 62 · **Open issues**: 161 · **Commits**: 103
+- **Releases**: 1 · **Merged PRs**: 46 · **Open PRs**: 44 · **Closed issues**: 62 · **Open issues**: 161 · **Commits**: 104
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 4 | 2 | 5 | 2 |
-| last60d | 2026-08-29 | 0 | 2 | 10 | 2 | 10 | 6 |
-| 90d | 2026-07-30 | 0 | 2 | 12 | 4 | 13 | 6 |
-| last180d | 2026-05-01 | 0 | 12 | 25 | 5 | 34 | 17 |
-| 360d | 2025-11-02 | 1 | 24 | 41 | 24 | 99 | 38 |
-| last720d | 2024-11-07 | 1 | 45 | 44 | 62 | 161 | 103 |
+| 30d | 2026-09-29 | 0 | 2 | 4 | 2 | 5 | 3 |
+| last60d | 2026-08-30 | 0 | 3 | 10 | 2 | 10 | 7 |
+| 90d | 2026-07-31 | 0 | 3 | 12 | 4 | 13 | 7 |
+| last180d | 2026-05-02 | 0 | 13 | 25 | 5 | 34 | 18 |
+| 360d | 2025-11-03 | 1 | 25 | 41 | 23 | 98 | 39 |
+| last720d | 2024-11-08 | 1 | 46 | 44 | 62 | 161 | 104 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for notion-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:06:05Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:16:09Z._
