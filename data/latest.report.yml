@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:20:19Z
+  collectedAt: 2026-10-31T06:11:10Z
 timeline:
   created: 2025-03-10
   lastCommit: 2026-10-29
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-01-31
   lastPrerelease: 
 popularity:
-  star: 4686
+  star: 4690
   watcher: 26
   fork: 638
   release: 1
   contributor: 40
   pullRequest: 133
-  issue: 224
+  issue: 225
 language:
   TypeScript: 218056
   Dockerfile: 967
@@ -29,15 +29,15 @@ language:
 totalBytes: 219834
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 3
     openPR: 4
     closedIssue: 2
-    openIssue: 6
+    openIssue: 7
     commit: 4
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 4
     openPR: 10
@@ -45,47 +45,47 @@ recent:
     openIssue: 11
     commit: 8
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
     mergedPR: 4
     openPR: 12
     closedIssue: 4
-    openIssue: 14
+    openIssue: 15
     commit: 8
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
     mergedPR: 14
     openPR: 25
     closedIssue: 5
-    openIssue: 34
+    openIssue: 35
     commit: 19
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 1
     mergedPR: 26
     openPR: 41
     closedIssue: 23
-    openIssue: 99
+    openIssue: 100
     commit: 40
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 1
     mergedPR: 47
     openPR: 44
     closedIssue: 62
-    openIssue: 162
+    openIssue: 163
     commit: 105
 total:
   release: 1
   mergedPR: 47
   openPR: 44
   closedIssue: 62
-  openIssue: 162
+  openIssue: 163
   commit: 105
 ---
 path: /home/runner/.x-repo/github.com/makenotion/notion-mcp-server
-collectedAt: 2026-10-30T06:20:20Z
+collectedAt: 2026-10-31T06:11:11Z
 loc:
   Json:
     code: 8213
