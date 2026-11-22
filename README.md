@@ -36,7 +36,7 @@ Total: **13,740** lines of code across **35** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,719 · **Forks**: 653 · **Open issues**: 227 · **Contributors**: 40
+- **Stars**: 4,720 · **Forks**: 652 · **Open issues**: 227 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **13,740** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 10 | 0 | 8 | 4 |
-| last60d | 2026-09-22 | 0 | 3 | 13 | 2 | 12 | 4 |
-| 90d | 2026-08-23 | 0 | 4 | 19 | 2 | 16 | 8 |
-| last180d | 2026-05-25 | 0 | 14 | 33 | 4 | 32 | 19 |
-| 360d | 2025-11-26 | 1 | 26 | 49 | 21 | 98 | 40 |
-| last720d | 2024-12-01 | 1 | 47 | 53 | 62 | 165 | 105 |
+| 30d | 2026-10-23 | 0 | 3 | 10 | 0 | 8 | 4 |
+| last60d | 2026-09-23 | 0 | 3 | 13 | 2 | 12 | 4 |
+| 90d | 2026-08-24 | 0 | 4 | 19 | 2 | 16 | 8 |
+| last180d | 2026-05-26 | 0 | 14 | 33 | 4 | 31 | 19 |
+| 360d | 2025-11-27 | 1 | 26 | 49 | 21 | 98 | 40 |
+| last720d | 2024-12-02 | 1 | 47 | 53 | 62 | 165 | 105 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for notion-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:11:08Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:37:11Z._
